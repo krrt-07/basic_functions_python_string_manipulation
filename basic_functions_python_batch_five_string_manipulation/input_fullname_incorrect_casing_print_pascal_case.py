@@ -5,3 +5,4 @@ user_fullname = input("Enter your full name (incorrect casing): ")
 pascal_case = user_fullname.title().replace(" ", "") 
 
 # print the fullname in pascal case.
+print(pascal_case) 
