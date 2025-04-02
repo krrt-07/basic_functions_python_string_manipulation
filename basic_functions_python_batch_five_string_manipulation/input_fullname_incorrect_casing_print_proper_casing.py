@@ -3,3 +3,4 @@ fullname = input("Enter your fullname: ")
 
 # make the fullname in proper casing.
 # print the fullname.
+print(fullname.title())
