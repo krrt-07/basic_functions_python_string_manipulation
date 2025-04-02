@@ -5,3 +5,4 @@ user_fullname = input("Enter your full name: ")
 char_count = len(user_fullname) 
 
 # print how many letters in his/her fullname.
+print(f"Number of characters: {char_count}") 
