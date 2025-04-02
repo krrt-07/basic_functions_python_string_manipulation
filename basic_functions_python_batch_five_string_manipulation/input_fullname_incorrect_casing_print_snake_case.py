@@ -5,3 +5,4 @@ user_fullname = input("Enter your full name (incorrect casing): ")
 snake_case = user_fullname.lower().replace(" ", "_")  
 
 # print the fullname in snake case.
+print(snake_case) 
